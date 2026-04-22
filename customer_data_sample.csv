@@ -1,0 +1,5 @@
+customer_id,name,email,subscription_status,last_login
+1,Alice Smith,alice@example.com,active,2026-04-20
+2,Bob Jones,bob@example.com,canceled,2026-03-15
+3,Charlie Brown,charlie@example.com,active,2026-04-22
+4,Diana Prince,diana@example.com,pending,2026-04-21
